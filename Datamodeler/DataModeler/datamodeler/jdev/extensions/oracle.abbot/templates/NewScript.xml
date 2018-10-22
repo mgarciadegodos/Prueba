@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AWTTestScript>
+  <component class="oracle.ide.IdeMainWindow" id="main-window" name="main-window" root="true" title="LAUNCHED: Oracle JDeveloper Fusion - Application1.jws : Project1.jpr : /scratch/gdavison/view_storage/gdavison_lct/oracle/jdev/bin/store/jdeveloper/mywork/Application1/Project1/public_html/WEB-INF/wsdl/MyWebService1.wsdl" />
+  <!--A new script-->
+  <action args="main-window" class="abbot.tester.ComponentTester" method="actionFocus" />
+</AWTTestScript>
+
